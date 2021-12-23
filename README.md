@@ -1,0 +1,1 @@
+This is a set of algorithm challenges on hackerrank using golang
